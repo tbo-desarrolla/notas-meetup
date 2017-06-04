@@ -22,3 +22,7 @@
 * Santiago Ferreira ([@san650](https://github.com/san650))
 * Julio Barrios ([@jubar](https://github.com/jubar))
 * Gabriel Roldan ([@luisgabrielroldan](https://github.com/luisgabrielroldan))
+* Yasser Núñez
+* Jorge Luis Gonzales
+* Paola Olivera
+* Fernando Isasa
