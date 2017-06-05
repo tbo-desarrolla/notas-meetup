@@ -4,6 +4,8 @@
 * Hora: 18:00 a 20:00 hrs
 * Participantes: 6
 
+![Foto Tacuarembó Desarrolla](./photo.jpg)
+
 ## Actividades
 
 * Elm - Andrés Rodríguez
